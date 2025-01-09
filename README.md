@@ -9,8 +9,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barshanpoddar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barshanpoddar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ace07819ba71f57b1f749f?variant=dark&roadmaps=frontend%2Cjavascript%2Cgit-github" alt="roadmap.sh"/></a>
 </div>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66ace07819ba71f57b1f749f?variant=dark&roadmaps=frontend%2Cjavascript%2Cgit-github" alt="roadmap.sh"/></a>
+
 
 ###
 
