@@ -16,3 +16,4 @@
 ###
 
 [![](https://visitcount.itsvg.in/api?id=barshanpoddar&icon=6&color=3)](https://visitcount.itsvg.in)
+[![roadmap.sh](https://roadmap.sh/card/wide/66ace07819ba71f57b1f749f?variant=dark&roadmaps=git-github%2Cfrontend%2Cjavascript)](https://roadmap.sh)
