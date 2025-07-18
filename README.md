@@ -1,5 +1,5 @@
 # <--hello world 👋-->
-🔭 I’m currently working on Timi - stay Productive;<br>👯 I’m looking to collaborate on Timi ;<br>🌱 I’m currently learning JS ; <br>
+🔭 I’m currently working on Don't want to reveal now;<br>👯 I’m looking to collaborate on Nothing;<br>🌱 I’m currently learning Dart; <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barshan_poddar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barshan-poddar) 
 
